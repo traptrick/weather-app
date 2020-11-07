@@ -12,4 +12,4 @@ It uses javascript FETCH function to fetch data from the API.
 
 Suggest me if you have any ideas/features in mind that can be added onto this project.
 
-###### HAPPY CODING :smiley:
+###### :relaxed: HAPPY CODING :smiley:
