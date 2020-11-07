@@ -11,7 +11,7 @@ btn.addEventListener('click', () => {
        .then(data => {
           let kelvin = data.main.temp;
           let celsius = Math.floor(kelvin - 273.15);
-          let fahrenheit = celsius * 1.8 + 32;
+          let fahrenheit = Math.floor(celsius * 1.8 + 32);
 
           let iconId = data.weather[0].icon;
           let description = data.weather[0].description;
